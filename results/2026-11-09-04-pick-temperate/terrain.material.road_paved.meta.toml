@@ -1,0 +1,15 @@
+# Source sidecar (docs/asset-pipeline.md §4.1), written by aow-gen job 2026-11-09-04-pick-temperate
+origin = "ai-assisted"
+licence = "own"
+note = "Generated albedo base, picked for terrain.material.road_paved (Paolo, 2026-11-09 18:34, in chat: 'I prefer the alternative seeds' (all eight alternatives on the proposed-picks board, job 2026-11-09-03)); output tex/road_paved/road_paved_s8001_00001_.png of aow_gen job 2026-11-09-04-pick-temperate; not reworked yet"
+
+[[generation]]
+model = "Chroma1-HD"
+model_licence = "Apache-2.0"
+workflow = "tools/comfy/texture_tileable.json"
+workflow_hash = "84882c396fe00dc4aac311d7ad3c2eff11ec8e660ac648ed279099b84cba52cb"
+prompt = "worn grey stone setts with soil in the joints, seamless tileable ground texture, orthographic top-down view, flat even overcast light, no shadows, no horizon, no objects, painted game texture, muted natural colours, low contrast"
+negative_prompt = "perspective, horizon, sky, shadows, objects, buildings, people, text, watermark, frame, vignette, high contrast, saturated"
+seed = 8001
+worker = "aiserv"
+in_output = true

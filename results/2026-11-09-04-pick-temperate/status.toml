@@ -1,7 +1,82 @@
 # aow-gen job 2026-11-09-04-pick-temperate: written by the worker on aiserv
 id = "2026-11-09-04-pick-temperate"
-state = "running"
+state = "done"
 worker = "aiserv"
 code = "a82b89a6a5f8"
 started = "2026-11-09T17:35:24+00:00"
 type = "pick"
+art_commit = "f4350ce1b4db"
+finished = "2026-11-09T17:35:29+00:00"
+message = "8 pick(s) committed to aow_art"
+
+[[pick]]
+slot = "terrain.material.temperate_open"
+file = "terrain/material/temperate_open/base.png"
+source = "tex/open/open_s1014_00001_.png"
+workflow = "texture_tileable"
+seed = 1014
+sha256 = "e312a872306d1e344944672ae5e8f59ac024113abb822931a0043b062c673d31"
+lfs = true
+
+[[pick]]
+slot = "terrain.material.temperate_barren"
+file = "terrain/material/temperate_barren/base.png"
+source = "tex/barren/barren_s2009_00001_.png"
+workflow = "texture_tileable"
+seed = 2009
+sha256 = "0a94f0e23acf1b27719047b95bd8bcc560789845d55866c085914d3503898f62"
+lfs = true
+
+[[pick]]
+slot = "terrain.material.temperate_vegetation"
+file = "terrain/material/temperate_vegetation/base.png"
+source = "tex/vegetation_v2/vegetation_v2_s3116_00001_.png"
+workflow = "texture_tileable"
+seed = 3116
+sha256 = "f09811cb816060bc35084dedf35845e207e2d7c5fe39a8ff2dbd9c511275e290"
+lfs = true
+
+[[pick]]
+slot = "terrain.material.temperate_wetland"
+file = "terrain/material/temperate_wetland/base.png"
+source = "tex/wetland/wetland_s4010_00001_.png"
+workflow = "texture_tileable"
+seed = 4010
+sha256 = "7a8bb26dfd65b730dd9bd3f229ec8a8c6ad2aaf7249443aa7499ffa7d6e17401"
+lfs = true
+
+[[pick]]
+slot = "terrain.material.rock_temperate"
+file = "terrain/material/rock_temperate/base.png"
+source = "tex/rock_v2/rock_v2_s5110_00001_.png"
+workflow = "texture_tileable"
+seed = 5110
+sha256 = "12163b9b5d41494ddba28b1ca9ede12c86b4e0e450fa8a8b20f5e17fde585e2e"
+lfs = true
+
+[[pick]]
+slot = "terrain.material.shore_sand"
+file = "terrain/material/shore_sand/base.png"
+source = "tex/shore/shore_s6008_00001_.png"
+workflow = "texture_tileable"
+seed = 6008
+sha256 = "87081111d608767dbeebc5ea1198a2e4fbb80ccd50a01ffb4b80bd6e25906ab2"
+lfs = true
+
+[[pick]]
+slot = "terrain.material.road_paved"
+file = "terrain/material/road_paved/base.png"
+source = "tex/road_paved/road_paved_s8001_00001_.png"
+workflow = "texture_tileable"
+seed = 8001
+sha256 = "8be5bdc3dc5ebb1707def9b41405d2c3adabc168db7452f366fc63c6d2c2470b"
+lfs = true
+
+[[pick]]
+slot = "terrain.material.road_earth"
+file = "terrain/material/road_earth/base.png"
+source = "tex/road_earth_strip/road_earth_strip_s7207_00001_.png"
+workflow = "texture_strip"
+seed = 7207
+sha256 = "8b60a5c03f392ea494c22118e602e33be068312873af08d8f5881de6611a1e70"
+lfs = true
