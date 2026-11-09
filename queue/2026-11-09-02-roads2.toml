@@ -1,0 +1,14 @@
+# Road strip rerun (Paolo, 2026-11-07 07:46): "two parallel wheel ruts" drew
+# railway tracks on 7 of 16 and a road on a plain background on 8. Same graph
+# and seeds as `night_batch.py --set roads2` would have used.
+type = "generate"
+note = "road_earth strip rerun (roads2), seeds 7301-7316"
+workflow = "texture_strip"
+out = "tex/road_earth_strip2"
+review = true
+
+[[item]]
+name = "road_earth_strip2"
+positive = "straight packed pale earth cart track seen from directly above, running horizontally across the whole image, worn into two shallow soft grooves by cart wheels, compacted dust, small embedded stones, the track surface fills the whole frame, seamless tileable ground texture, orthographic top-down view, flat even overcast light, no shadows, no horizon, no objects, painted game texture, muted natural colours, low contrast"
+negative = "perspective, horizon, sky, shadows, objects, buildings, people, text, watermark, frame, vignette, high contrast, saturated, white background, isolated objects, stickers, cutout, logs, tree trunks, brick wall, ceramic tiles, cracked clay, dry mud cracks, paving, roadside grass, verge, curve, bend, vanishing point, crossroads, railway, rails, train tracks, railroad sleepers, metal, plain background, dark background, grey background, empty margins, border"
+seed_range = [7301, 7316]

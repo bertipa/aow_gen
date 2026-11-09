@@ -1,0 +1,2 @@
+type = "ping"
+note = "first contact: worker, GPU, ComfyUI, output folders"
