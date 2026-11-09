@@ -1,0 +1,21 @@
+type = "view"
+note = "proposed picks (first) and alternatives (second) for the eight materials"
+size = 512
+files = [
+  "tex/open/open_s1012_00001_.png",
+  "tex/open/open_s1014_00001_.png",
+  "tex/barren/barren_s2012_00001_.png",
+  "tex/barren/barren_s2009_00001_.png",
+  "tex/vegetation_v2/vegetation_v2_s3101_00001_.png",
+  "tex/vegetation_v2/vegetation_v2_s3116_00001_.png",
+  "tex/wetland/wetland_s4005_00001_.png",
+  "tex/wetland/wetland_s4010_00001_.png",
+  "tex/rock_v2/rock_v2_s5101_00001_.png",
+  "tex/rock_v2/rock_v2_s5110_00001_.png",
+  "tex/shore_v2/shore_v2_s6102_00001_.png",
+  "tex/shore/shore_s6008_00001_.png",
+  "tex/road_paved/road_paved_s8016_00001_.png",
+  "tex/road_paved/road_paved_s8001_00001_.png",
+  "tex/road_earth_strip2/road_earth_strip2_s7307_00001_.png",
+  "tex/road_earth_strip/road_earth_strip_s7207_00001_.png",
+]
