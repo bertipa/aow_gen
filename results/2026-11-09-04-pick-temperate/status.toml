@@ -1,0 +1,7 @@
+# aow-gen job 2026-11-09-04-pick-temperate: written by the worker on aiserv
+id = "2026-11-09-04-pick-temperate"
+state = "running"
+worker = "aiserv"
+code = "a82b89a6a5f8"
+started = "2026-11-09T17:35:24+00:00"
+type = "pick"
