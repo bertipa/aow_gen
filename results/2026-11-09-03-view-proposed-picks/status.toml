@@ -1,7 +1,9 @@
 # aow-gen job 2026-11-09-03-view-proposed-picks: written by the worker on aiserv
 id = "2026-11-09-03-view-proposed-picks"
-state = "running"
+state = "done"
 worker = "aiserv"
 code = "c4ae1dcfcaa2"
 started = "2026-11-09T17:28:45+00:00"
 type = "view"
+finished = "2026-11-09T17:28:48+00:00"
+message = "16 previews"
