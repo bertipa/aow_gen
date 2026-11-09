@@ -1,7 +1,107 @@
 # aow-gen job 2026-11-09-02-roads2: written by the worker on aiserv
 id = "2026-11-09-02-roads2"
-state = "running"
+state = "done"
 worker = "aiserv"
 code = "c4ae1dcfcaa2"
 started = "2026-11-09T17:14:19+00:00"
 type = "generate"
+workflow = "tools/comfy/texture_strip.json"
+workflow_hash = "0c7bbc1f3e936e894230b117c68557b666aac6f298dae5d7d8f440fd89536c3c"
+finished = "2026-11-09T17:14:22+00:00"
+message = "16 images in tex/road_earth_strip2 (16 already there); review of 1 folder(s): flagged: []"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7301
+file = "tex/road_earth_strip2/road_earth_strip2_s7301_00001_.png"
+sha256 = "13cfca85bdcb5dd59bea1d27d79013083a074b5527deb1d3cb5b5ab98f5c9099"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7302
+file = "tex/road_earth_strip2/road_earth_strip2_s7302_00001_.png"
+sha256 = "cc6331f26dedc37c05466670ca86147d55215ee05cb0597c4e7742047b5855c2"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7303
+file = "tex/road_earth_strip2/road_earth_strip2_s7303_00001_.png"
+sha256 = "e0e56ac27e8c5031b2d1cbfb650faa92f3c6d6125a64ef3fee24a1c435dcd545"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7304
+file = "tex/road_earth_strip2/road_earth_strip2_s7304_00001_.png"
+sha256 = "dac289db6033cfde3aed9156a5ee3dffcbf66e127bfdcc9948cbe6328b8523f5"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7305
+file = "tex/road_earth_strip2/road_earth_strip2_s7305_00001_.png"
+sha256 = "5634f4df8fb7a4b2f103176bebe4b9867ee78b7e9614e7b1e5b41bb2eff1d310"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7306
+file = "tex/road_earth_strip2/road_earth_strip2_s7306_00001_.png"
+sha256 = "9ccad22008b2b78d89dfcaa3e8cb58f56d1224840a8c4ef3fa1e7ba391ab2644"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7307
+file = "tex/road_earth_strip2/road_earth_strip2_s7307_00001_.png"
+sha256 = "9b56dad9301f61d324ecfcfbd3ec97b3d79bf0b3f122cfe5b3827330111b5ff7"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7308
+file = "tex/road_earth_strip2/road_earth_strip2_s7308_00001_.png"
+sha256 = "5a008afcd6d852f0f7520dafa464b13587bb1b94838f440852e94197c5051648"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7309
+file = "tex/road_earth_strip2/road_earth_strip2_s7309_00001_.png"
+sha256 = "4d3907e40eb2a07db7eaf84dd6e6f1e6a12c45d9a6f1731eb18133b42f4ad684"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7310
+file = "tex/road_earth_strip2/road_earth_strip2_s7310_00001_.png"
+sha256 = "a6c871b4afd01bdfeda976c2d929cdf4d3489ac20016e12833e83f3258bf51bd"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7311
+file = "tex/road_earth_strip2/road_earth_strip2_s7311_00001_.png"
+sha256 = "a48fc133eff5df9d4c55ea8dc61584e3b88e5adba45b29e529dc8e30279992a5"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7312
+file = "tex/road_earth_strip2/road_earth_strip2_s7312_00001_.png"
+sha256 = "caf9d674e8406d4e5ce7e08c6d32d9d4cc6e5256db1e4fd37f1b42e35dec1097"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7313
+file = "tex/road_earth_strip2/road_earth_strip2_s7313_00001_.png"
+sha256 = "66bfd6ec63fbdb8bd74c99bb124561b41f1fc283d3ce75279b57051a764e1533"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7314
+file = "tex/road_earth_strip2/road_earth_strip2_s7314_00001_.png"
+sha256 = "053ddc5a233a8e287584fcccfdae499a65d0657050addbbb6ff076451c42c8ac"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7315
+file = "tex/road_earth_strip2/road_earth_strip2_s7315_00001_.png"
+sha256 = "eded0e3a8ab024c5495ecd86b8934b3360e5b9704d0e333ccdafb674eb7972dd"
+
+[[output]]
+name = "road_earth_strip2"
+seed = 7316
+file = "tex/road_earth_strip2/road_earth_strip2_s7316_00001_.png"
+sha256 = "f53338773d79390cadcdd71a2a23f6e22cf0f75899f8a202bc3a8750bb2fbc8d"
