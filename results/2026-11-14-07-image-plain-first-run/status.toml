@@ -1,7 +1,10 @@
 # aow-gen job 2026-11-14-07-image-plain-first-run: written by the worker on aiserv
 id = "2026-11-14-07-image-plain-first-run"
-state = "running"
+state = "rejected"
 worker = "aiserv"
 code = "b387230d0e68"
 started = "2026-11-14T16:56:32+00:00"
 type = "generate"
+game = "ca"
+finished = "2026-11-14T16:56:34+00:00"
+message = "workflow 'image_plain' is not pinned in tools/comfy/versions.toml (have ['texture_strip', 'texture_tileable'])"
