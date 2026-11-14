@@ -1,7 +1,78 @@
 # aow-gen job 2026-11-14-06-ping-image-plain: written by the worker on aiserv
 id = "2026-11-14-06-ping-image-plain"
-state = "running"
+state = "done"
 worker = "aiserv"
 code = "b387230d0e68"
 started = "2026-11-14T16:56:27+00:00"
 type = "ping"
+finished = "2026-11-14T16:56:29+00:00"
+message = "comfy up, 14 output folders"
+
+[info]
+comfy_up = true
+code = "b387230d0e68"
+python = "3.13.18"
+comfy_running = 0
+comfy_pending = 0
+comfy_version = "0.44.2"
+gpu = "NVIDIA GeForce RTX 3090, 266 MiB, 24576 MiB, 0 %, 33, 280.00 W"
+ollama_loaded = ["(ollama not reachable)"]
+disk_free_gb = ["/home/bertipa/comfy/output: 80.6", "/models: 198.9"]
+git_lfs = true
+art_repo = ["aow_art: present", "ca_art: present"]
+
+[[folder]]
+folder = "tex/barren"
+png = 16
+
+[[folder]]
+folder = "tex/open"
+png = 16
+
+[[folder]]
+folder = "tex/road_earth"
+png = 16
+
+[[folder]]
+folder = "tex/road_earth_strip"
+png = 16
+
+[[folder]]
+folder = "tex/road_earth_strip2"
+png = 16
+
+[[folder]]
+folder = "tex/road_earth_v2"
+png = 16
+
+[[folder]]
+folder = "tex/road_paved"
+png = 16
+
+[[folder]]
+folder = "tex/rock"
+png = 16
+
+[[folder]]
+folder = "tex/rock_v2"
+png = 16
+
+[[folder]]
+folder = "tex/shore"
+png = 16
+
+[[folder]]
+folder = "tex/shore_v2"
+png = 16
+
+[[folder]]
+folder = "tex/vegetation"
+png = 16
+
+[[folder]]
+folder = "tex/vegetation_v2"
+png = 16
+
+[[folder]]
+folder = "tex/wetland"
+png = 16
