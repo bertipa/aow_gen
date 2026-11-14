@@ -1,0 +1,7 @@
+# aow-gen job 2026-11-14-06-ping-image-plain: written by the worker on aiserv
+id = "2026-11-14-06-ping-image-plain"
+state = "running"
+worker = "aiserv"
+code = "b387230d0e68"
+started = "2026-11-14T16:56:27+00:00"
+type = "ping"
