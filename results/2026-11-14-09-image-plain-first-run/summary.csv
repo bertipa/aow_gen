@@ -1,0 +1,3 @@
+material,cell,seed,file,seam_pct_v,seam_pct_h,seam_ratio_v,seam_ratio_h,saturation,value,flag
+test_image_plain,1,5701,plain_test_s5701_00001_.png,,,,,0.298,0.640,
+test_image_plain,2,5702,plain_test_s5702_00001_.png,,,,,0.362,0.619,

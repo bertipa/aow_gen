@@ -1,7 +1,26 @@
 # aow-gen job 2026-11-14-09-image-plain-first-run: written by the worker on aiserv
 id = "2026-11-14-09-image-plain-first-run"
-state = "running"
+state = "done"
 worker = "aiserv"
 code = "afac2b0636d9"
 started = "2026-11-14T17:08:21+00:00"
 type = "generate"
+game = "ca"
+workflow = "tools/comfy/image_plain.json"
+workflow_hash = "091643c56d91f805686b5750661db90351015e5559106522af7e45d81a2a7847"
+finished = "2026-11-14T17:13:21+00:00"
+message = "2 images in ca/test_image_plain (0 already there), 147 s per new image; review of 1 folder(s): flagged: []"
+
+[[output]]
+name = "plain_test"
+seed = 5701
+file = "ca/test_image_plain/plain_test_s5701_00001_.png"
+sha256 = "402190ed2d716f89bc5b0422c46d91867d02f2508cbf97bf05b7590e4028cbb7"
+seconds = 147.1
+
+[[output]]
+name = "plain_test"
+seed = 5702
+file = "ca/test_image_plain/plain_test_s5702_00001_.png"
+sha256 = "6f0004ae7fca3ea1cabc5ef20977596a48b024598d6f540e905444dfdb080813"
+seconds = 147.1

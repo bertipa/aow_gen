@@ -1,0 +1,3 @@
+test_image_plain: 2 -> /tmp/tmpscr5abd5/_review/test_image_plain_sheet.jpg
+flagged: []
+test_image_plain sat 0.33 (0.30-0.36)  val 0.63  no seam check
