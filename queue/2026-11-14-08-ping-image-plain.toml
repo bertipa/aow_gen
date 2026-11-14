@@ -1,0 +1,2 @@
+type = "ping"
+note = "after aow_sphere #117 (DA-57), second try: the worker should now be at 2364ae6 or later"

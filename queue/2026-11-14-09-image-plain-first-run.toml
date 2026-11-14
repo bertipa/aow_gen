@@ -1,0 +1,13 @@
+type = "generate"
+game = "ca"
+workflow = "image_plain"
+out = "ca/test_image_plain"
+review = true
+fresh_comfy = true
+note = "DA-57: first run of image_plain on a worker, second try after the code update; a test, not a round-one board"
+
+[[item]]
+name = "plain_test"
+positive = "a design sample board laid out on a table: hand-cut paper swatches in warm earth colours, ink line drawings of simple geometric shapes, a small brass instrument, soft daylight from above, top-down view, clean and calm composition"
+negative = "text, letters, watermark, signature, frame, people"
+seeds = [5701, 5702]
