@@ -1,0 +1,2 @@
+type = "ping"
+note = "after aow_sphere #117 (DA-57): the worker's code should be at 2364ae6 or later"
